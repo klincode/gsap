@@ -26,8 +26,9 @@ function App() {
           duration: 1,
           scrollTrigger: {
             trigger: section, //elem,ent triggerujący
-            start: "top 40%", //gorna krawedz dotknie 40%od góry viewportu
+            start: "top bottom", //gorna krawedz dotknie 40%od góry viewportu
             markers: true, //podpowiadaczka
+            scrub: 1,
           },
         }
         // stager jesli mam wiecej elementow, czas miedzy animacjamit childrensów
