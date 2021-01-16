@@ -1,4 +1,4 @@
 # GSAP
 
 ![alt project1](./projekty_html/screen/project1.png)
-Projekty z GSAP
+Projekty z GSAP1
